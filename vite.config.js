@@ -1,4 +1,5 @@
-import { defineConfig } from 'vite';
+/// <reference types="vitest" />
+import {defineConfig} from 'vite';
 
 export default defineConfig({
     server: {
@@ -8,5 +9,10 @@ export default defineConfig({
         alias: {
             '@': '/src'
         }
-    }
+    },
+    test: {
+        globals: true,
+        environment: 'jsdom',
+        dir: 'tests',
+    },
 });
