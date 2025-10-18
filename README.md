@@ -1,6 +1,3 @@
-### Game 1 - Hello World
+### Collection of web video games.
 
-This is a simple hello world game example in Phaser JS.
-
-1- Loads an image from phaser server. 
-2- Adds tween animation to that image on screen.
+In this Vite JS project, I am going to define lots of examples games that are made with [Phaser JS](https://github.com/hojat72elect/Phaser).
