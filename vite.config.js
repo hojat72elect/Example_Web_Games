@@ -1,11 +1,10 @@
-/// <reference types="vitest" />
-import {defineConfig} from 'vite';
+import {defineConfig} from "vite";
 
 export default defineConfig({
     build: {
         rollupOptions: {
             input: {
-                main: 'index.html',
+                game1: 'game1.html',
                 game2: 'game2.html'
             }
         }
@@ -14,10 +13,5 @@ export default defineConfig({
         alias: {
             '@': '/src'
         }
-    },
-    test: {
-        globals: true,
-        environment: 'jsdom',
-        dir: 'test',
     },
 });
