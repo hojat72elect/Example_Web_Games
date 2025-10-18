@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "game1": "vite --open game1.html",
+    "game2": "vite --open game2.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
