@@ -5,7 +5,8 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 game1: 'game1.html',
-                game2: 'game2.html'
+                game2: 'game2.html',
+                game3: 'game3.html'
             }
         }
     },
