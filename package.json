@@ -7,6 +7,7 @@
     "game1": "vite --open examples/game1/game1.html",
     "game2": "vite --open examples/game2/game2.html",
     "game3": "vite --open examples/game3_2D-platformer/game3.html",
+    "actions - Inc X": "vite --open examples/actions/IncX.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
