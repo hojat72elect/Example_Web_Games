@@ -9,6 +9,7 @@
     "game3": "vite --open examples/game3_2D-platformer/game3.html",
     "actions - Inc X": "vite --open examples/actions/IncX.html",
     "actions - Inc Y": "vite --open examples/actions/IncY.html",
+    "actions - Angle": "vite --open examples/actions/Angle.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
