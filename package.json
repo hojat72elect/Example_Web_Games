@@ -11,6 +11,7 @@
     "actions - Inc Y": "vite --open examples/actions/IncY.html",
     "actions - Angle": "vite --open examples/actions/Angle.html",
     "actions - Place On A Circle Multi": "vite --open examples/actions/PlaceOnACircleMulti.html",
+    "actions - Rotate Around": "vite --open examples/actions/RotateAround.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
