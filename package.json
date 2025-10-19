@@ -10,6 +10,7 @@
     "actions - Inc X": "vite --open examples/actions/IncX.html",
     "actions - Inc Y": "vite --open examples/actions/IncY.html",
     "actions - Angle": "vite --open examples/actions/Angle.html",
+    "actions - Place On A Circle Multi": "vite --open examples/actions/PlaceOnACircleMulti.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
