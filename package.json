@@ -14,6 +14,7 @@
     "actions - Rotate Around": "vite --open examples/actions/RotateAround.html",
     "actions - geometry - intersects - line to line": "vite --open examples/geometry/intersects/LineToLine.html",
     "actions - geometry - intersects - Rectangle to Circle": "vite --open examples/geometry/intersects/RectangleToCircle.html",
+    "actions - geometry - intersects - Circle to Circle": "vite --open examples/geometry/intersects/CircleToCircle.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
