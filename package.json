@@ -12,6 +12,8 @@
     "actions - Angle": "vite --open examples/actions/Angle.html",
     "actions - Place On A Circle Multi": "vite --open examples/actions/PlaceOnACircleMulti.html",
     "actions - Rotate Around": "vite --open examples/actions/RotateAround.html",
+    "actions - geometry - intersects - line to line": "vite --open examples/geometry/intersects/LineToLine.html",
+    "actions - geometry - intersects - Rectangle to Circle": "vite --open examples/geometry/intersects/RectangleToCircle.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
