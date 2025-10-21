@@ -14,7 +14,8 @@ export default defineConfig({
                 examples_actions_rotate_around: 'RotateAround.html',
                 examples_geometry_intersects_line_to_line: 'LineToLine.html',
                 examples_geometry_intersects_rectangle_to_circle: 'RectangleToCircle.html',
-                examples_geometry_intersects_circle_to_circle: 'CircleToCircle.html'
+                examples_geometry_intersects_circle_to_circle: 'CircleToCircle.html',
+                examples_geometry_intersects_point_to_line: 'PointToLine.html',
             }
         }
     },
