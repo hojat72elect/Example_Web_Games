@@ -16,6 +16,7 @@ export default defineConfig({
                 examples_geometry_intersects_rectangle_to_circle: 'RectangleToCircle.html',
                 examples_geometry_intersects_circle_to_circle: 'CircleToCircle.html',
                 examples_geometry_intersects_point_to_line: 'PointToLine.html',
+                examples_geometry_intersects_triangle_to_circle: 'TriangleToCircle.html',
             }
         }
     },
