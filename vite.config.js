@@ -18,6 +18,10 @@ export default defineConfig({
                 examples_geometry_intersects_circle_to_circle: 'CircleToCircle.html',
                 examples_geometry_intersects_point_to_line: 'PointToLine.html',
                 examples_geometry_intersects_triangle_to_circle: 'TriangleToCircle.html',
+                examples_effects_barrel_filter: 'BarrelFilter.html',
+                examples_effects_barrel_sprite_filter: 'BarrelSpriteFilter.html',
+                examples_effects_barrel_squish_filter: 'BarrelSquishFilter.html',
+                examples_effects_barrel_text: 'BarrelText.html',
             }
         }
     },
