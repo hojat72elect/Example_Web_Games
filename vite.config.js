@@ -22,6 +22,7 @@ export default defineConfig({
                 examples_effects_barrel_sprite_filter: 'BarrelSpriteFilter.html',
                 examples_effects_barrel_squish_filter: 'BarrelSquishFilter.html',
                 examples_effects_barrel_text: 'BarrelText.html',
+                examples_physics_matterjs_sleep_events: 'SleepEvents.html',
             }
         }
     },

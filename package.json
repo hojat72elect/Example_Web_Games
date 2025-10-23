@@ -22,6 +22,7 @@
     "effects - Barrel - Barrel Sprite Filter": "vite --open examples/effects/barrel/BarrelSpriteFilter.html",
     "effects - Barrel - Barrel Squish Filter": "vite --open examples/effects/barrel/BarrelSquishFilter.html",
     "effects - Barrel - Barrel Text": "vite --open examples/effects/barrel/BarrelText.html",
+    "physics - matterjs - Sleep Events": "vite --open examples/physics/matterjs/SleepEvents.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
