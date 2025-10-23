@@ -25,6 +25,7 @@
     "physics - matterjs - Sleep Events": "vite --open examples/physics/matterjs/SleepEvents.html",
     "physics - matterjs - Increase Body Scale": "vite --open examples/physics/matterjs/IncreaseBodyScale.html",
     "physics - matterjs - Cloth": "vite --open examples/physics/matterjs/Cloth.html",
+    "physics - matterjs - Circle Stack": "vite --open examples/physics/matterjs/CircleStack.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
