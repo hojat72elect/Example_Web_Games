@@ -26,6 +26,7 @@ export default defineConfig({
                 examples_physics_matterjs_increase_body_scale: 'IncreaseBodyScale.html',
                 examples_physics_matterjs_cloth: 'Cloth.html',
                 examples_physics_matterjs_circle_stack: 'CircleStack.html',
+                particles_example1: 'Particle1.html'
             }
         }
     },

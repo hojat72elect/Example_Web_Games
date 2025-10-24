@@ -26,6 +26,7 @@
     "physics - matterjs - Increase Body Scale": "vite --open examples/physics/matterjs/IncreaseBodyScale.html",
     "physics - matterjs - Cloth": "vite --open examples/physics/matterjs/Cloth.html",
     "physics - matterjs - Circle Stack": "vite --open examples/physics/matterjs/CircleStack.html",
+    "particles - example1": "vite --open examples/particles/Particle1.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
