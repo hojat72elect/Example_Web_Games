@@ -6,8 +6,7 @@ class Game2 extends Phaser.Scene {
     }
 
     preload() {
-        // Load all assets here
-        this.load.setBaseURL("https://labs.phaser.io/assets")
+        this.load.setBaseURL("https://labs.phaser.io/assets");
         this.load.image('pic', 'pics/anime-ai.jpg');
         this.load.image('test', 'sprites/phaser3-logo.png');
     }
