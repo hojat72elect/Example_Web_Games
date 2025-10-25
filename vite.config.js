@@ -33,6 +33,7 @@ export default defineConfig({
                 camera_ignore_game_objects: "IgnoreGameObjects.html",
                 camera_rotate_camera: "RotateCamera.html",
                 camera_ignore_container: "IgnoreContainer.html",
+                camera_cameras_from_state_config: "CamerasFromStateConfig.html",
             }
         }
     },
