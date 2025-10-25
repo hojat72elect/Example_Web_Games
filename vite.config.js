@@ -28,7 +28,8 @@ export default defineConfig({
                 examples_physics_matterjs_circle_stack: 'CircleStack.html',
                 particles_example1: 'Particle1.html',
                 textures_get_pixel_dynamic: 'GetPixelDynamic.html',
-                textures_texture_packer_atlas: 'TexturePackerAtlas.html'
+                textures_texture_packer_atlas: 'TexturePackerAtlas.html',
+                camera_cross_scene_object_placement: "CrossSceneObjectPlacement.html",
             }
         }
     },
