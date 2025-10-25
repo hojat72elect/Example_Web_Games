@@ -21,6 +21,7 @@
     "camera - Cross Scene Object Placement": "vite --open examples/camera/CrossSceneObjectPlacement.html",
     "camera - Ignore GameObjects": "vite --open examples/camera/IgnoreGameObjects.html",
     "camera - Rotate Camera": "vite --open examples/camera/RotateCamera.html",
+    "camera - Ignore Container": "vite --open examples/camera/IgnoreContainer.html",
     "effects - Barrel - Barrel Filter": "vite --open examples/effects/barrel/BarrelFilter.html",
     "effects - Barrel - Barrel Sprite Filter": "vite --open examples/effects/barrel/BarrelSpriteFilter.html",
     "effects - Barrel - Barrel Squish Filter": "vite --open examples/effects/barrel/BarrelSquishFilter.html",
