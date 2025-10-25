@@ -30,6 +30,7 @@ export default defineConfig({
                 textures_get_pixel_dynamic: 'GetPixelDynamic.html',
                 textures_texture_packer_atlas: 'TexturePackerAtlas.html',
                 camera_cross_scene_object_placement: "CrossSceneObjectPlacement.html",
+                camera_ignore_game_objects: "IgnoreGameObjects.html",
             }
         }
     },

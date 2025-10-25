@@ -19,6 +19,7 @@
     "actions - geometry - intersects - Point to Line": "vite --open examples/geometry/intersects/PointToLine.html",
     "actions - geometry - intersects - Triangle to Circle": "vite --open examples/geometry/intersects/TriangleToCircle.html",
     "camera - Cross Scene Object Placement": "vite --open examples/camera/CrossSceneObjectPlacement.html",
+    "camera - Ignore GameObjects": "vite --open examples/camera/IgnoreGameObjects.html",
     "effects - Barrel - Barrel Filter": "vite --open examples/effects/barrel/BarrelFilter.html",
     "effects - Barrel - Barrel Sprite Filter": "vite --open examples/effects/barrel/BarrelSpriteFilter.html",
     "effects - Barrel - Barrel Squish Filter": "vite --open examples/effects/barrel/BarrelSquishFilter.html",
