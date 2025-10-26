@@ -8,6 +8,7 @@ export default defineConfig({
                 game2: 'game2.html',
                 game3: 'game3.html',
                 game4: 'BreakOut.html',
+                game5: 'Game5AvoidTheGerms.html',
                 examples_actions_incX: 'IncX.html',
                 examples_actions_incY: 'IncY.html',
                 examples_actions_angle: 'Angle.html',
