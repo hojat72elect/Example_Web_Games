@@ -9,6 +9,7 @@
     "game3": "vite --open examples/games/game3_2D-platformer/game3.html",
     "game4 - breakout game": "vite --open examples/games/game4_breakout/BreakOut.html",
     "game5 - avoid the germs": "vite --open examples/games/game5_avoid_the_germs/Game5AvoidTheGerms.html",
+    "game6 - Snake": "vite --open examples/games/game6_snake/Snake.html",
     "actions - Inc X": "vite --open examples/actions/IncX.html",
     "actions - Inc Y": "vite --open examples/actions/IncY.html",
     "actions - Angle": "vite --open examples/actions/Angle.html",
