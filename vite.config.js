@@ -10,6 +10,7 @@ export default defineConfig({
                 game4: 'BreakOut.html',
                 game5: 'Game5AvoidTheGerms.html',
                 game6: 'Snake.html',
+                game7: 'CoinClicker.html',
                 examples_actions_incX: 'IncX.html',
                 examples_actions_incY: 'IncY.html',
                 examples_actions_angle: 'Angle.html',
