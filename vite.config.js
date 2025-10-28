@@ -37,6 +37,7 @@ export default defineConfig({
                 camera_rotate_camera: "RotateCamera.html",
                 camera_ignore_container: "IgnoreContainer.html",
                 camera_cameras_from_state_config: "CamerasFromStateConfig.html",
+                game_objects_graphics_line_thickness: "LineThickness.html",
             }
         }
     },

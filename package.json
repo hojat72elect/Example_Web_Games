@@ -37,6 +37,7 @@
     "particles - example1": "vite --open examples/particles/Particle1.html",
     "textures - Get Pixel Dynamic": "vite --open examples/textures/GetPixelDynamic.html",
     "textures - Texture Packer Atlas": "vite --open examples/textures/TexturePackerAtlas.html",
+    "GameObjects - Graphics - Line Thickness": "vite --open examples/game_objects/graphics/LineThickness.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
