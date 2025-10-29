@@ -38,6 +38,7 @@ export default defineConfig({
                 camera_ignore_container: "IgnoreContainer.html",
                 camera_cameras_from_state_config: "CamerasFromStateConfig.html",
                 game_objects_graphics_line_thickness: "LineThickness.html",
+                game_objects_graphics_circles_test: "CirclesTest.html",
             }
         }
     },
