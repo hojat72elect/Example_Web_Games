@@ -39,6 +39,7 @@
     "textures - Texture Packer Atlas": "vite --open examples/textures/TexturePackerAtlas.html",
     "GameObjects - Graphics - Line Thickness": "vite --open examples/game_objects/graphics/LineThickness.html",
     "GameObjects - Graphics - Circles Test": "vite --open examples/game_objects/graphics/CirclesTest.html",
+    "GameObjects - Graphics - Arc": "vite --open examples/game_objects/graphics/Arc.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
