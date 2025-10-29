@@ -40,6 +40,7 @@ export default defineConfig({
                 game_objects_graphics_line_thickness: "LineThickness.html",
                 game_objects_graphics_circles_test: "CirclesTest.html",
                 game_objects_graphics_arc: "Arc.html",
+                game_objects_graphics_generate_texture_to_sprite: "GenerateTextureToSprite.html",
             }
         }
     },
