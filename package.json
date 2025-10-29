@@ -41,6 +41,7 @@
     "GameObjects - Graphics - Circles Test": "vite --open examples/game_objects/graphics/CirclesTest.html",
     "GameObjects - Graphics - Arc": "vite --open examples/game_objects/graphics/Arc.html",
     "GameObjects - Graphics - Generate Texture To Sprite": "vite --open examples/game_objects/graphics/GenerateTextureToSprite.html",
+    "GameObjects - Graphics - Fill Rect": "vite --open examples/game_objects/graphics/FillRect.html",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest"
